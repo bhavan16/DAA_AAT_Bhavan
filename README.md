@@ -8,7 +8,7 @@ USN: 1BM22AI028
 
 ## Knapsack
 
-https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391758565[Link to Access the file]
+https://www.hackerrank.com/challenges/unbounded-knapsack/submissions/code/391758565 [Link to Access the file]
 
 ```python
 #!/bin/python3
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 ## Cloudy Day
 
-https://www.hackerrank.com/challenges/cloudy-day/submissions/code/391757944[Link to Access the file]
+https://www.hackerrank.com/challenges/cloudy-day/submissions/code/391757944 [Link to Access the file]
 
 ```python
 #!/bin/python3
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
 ## QuickSort
 
-https://www.hackerrank.com/challenges/quicksort1/submissions/code/391758761[Link to Access the file]
+https://www.hackerrank.com/challenges/quicksort1/submissions/code/391758761 [Link to Access the file]
 
 ```python
 #!/bin/python3
@@ -152,7 +152,7 @@ if __name__ == '__main__':
 
 ## String Construction
 
-https://www.hackerrank.com/challenges/string-construction/submissions/code/391759004[Link to Access the file]
+https://www.hackerrank.com/challenges/string-construction/submissions/code/391759004  [Link to Access the file]
 
 ```python
 #!/bin/python3
