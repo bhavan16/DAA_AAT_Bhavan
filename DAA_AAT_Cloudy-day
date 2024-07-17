@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-# Complete the maximumPeople function below.
+
 from collections import defaultdict
 
 
